@@ -4,7 +4,7 @@ The official Go SDK of the [Myle API](https://developers.myleapp.fr): typed reso
 error code (`errors.As`), auto-pagination with Go 1.23 iterators, idempotent retries, `ETag` / `If-Match`.
 Standard library only, Go ≥ 1.23. Generated from the API's OpenAPI document by `sdk/generator` (Apache-2.0).
 
-SDK version `0.1.0`, built against `Myle-API-Version: 2026-11-21`.
+SDK version `0.1.1`, built against `Myle-API-Version: 2026-11-21`.
 
 ```sh
 go get github.com/myleapp/myle-go

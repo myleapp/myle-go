@@ -4,7 +4,7 @@
 package myle
 
 // Version is the version of this SDK, sent as Myle-Client: sdk-go/<Version>.
-const Version = "0.1.0"
+const Version = "0.1.1"
 
 // APIVersion is the contract date this SDK was generated against, sent as Myle-API-Version by default.
 const APIVersion = "2026-11-21"

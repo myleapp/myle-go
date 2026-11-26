@@ -5,7 +5,7 @@
 // type per error code, auto-pagination with iterators, idempotent retries, ETag / If-Match. Standard library only.
 // Generated from the API's OpenAPI document by sdk/generator.
 //
-// This is version 0.1.0 of the SDK, built against Myle-API-Version 2026-11-21 (APIVersion).
+// This is version 0.1.1 of the SDK, built against Myle-API-Version 2026-11-21 (APIVersion).
 //
 //	client := myle.NewClient() // reads MYLE_API_KEY; or myle.NewClient(myle.WithAPIKey("…"))
 //	me, err := client.Me.Get(ctx)
