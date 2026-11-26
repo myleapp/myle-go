@@ -1,0 +1,2 @@
+# Go caches of test.sh (GOPATH, GOMODCACHE, GOCACHE) stay inside the repository.
+/.tools/
